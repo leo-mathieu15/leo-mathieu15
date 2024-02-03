@@ -20,4 +20,3 @@ Actuellement en train d'apprendre **Flask** et **React**
 
 📫 Contactez moi sur Linkedin :
 
-<img src="qr-code-linkedin.png" width=200 />
